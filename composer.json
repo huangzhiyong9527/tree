@@ -1,10 +1,15 @@
 {
-    "name": "zaoma/tree",
-    "authors": [
-        {
-            "name": "huang zhiyong",
-            "email": "444129187@qq.com"
-        }
-    ],
-    "require": {}, "autoload": { "psr-4": { "Zaoma\\Tree\\": "src/" } } }
+  "name": "zaoma/tree",
+  "authors": [
+    {
+      "name": "huang zhiyong",
+      "email": "444129187@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Zaoma\\Tree\\": "src/"
+    }
+  }
 }
