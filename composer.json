@@ -8,8 +8,6 @@
   ],
   "require": {},
   "autoload": {
-    "psr-4": {
-      "Zaoma\\Tree\\": "src/"
-    }
+   
   }
 }
